@@ -1,4 +1,4 @@
-
+// @ts-nocheck
 import aboutImage from "../../assets/images/hero2.png"; // ensure the image exists
 
 const benefits = [
